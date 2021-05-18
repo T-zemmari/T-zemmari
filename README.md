@@ -6,7 +6,22 @@
 <p><em>Full Stack Developer <a href="http://www.unb.br">Geekshubs Academy</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
+
+<h3 align="center">I'm a Developer from Valencia!!</h3>
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlos-val" alt="carlos-val" /></a> </p>
+
+
 [![Linkedin: TarekZemmari](https://img.shields.io/badge/Linkedin-Tarek%20Zemmari-blue)](https://www.linkedin.com/in/tarek-zemmari/)
+
+
+- 🔭 I’m currently working on **for a new job opportunity as a web developer**
+
+- 🌱 I’m currently learning **in Geekshubs Academy**
+
+- ⚡ Fun fact **I love sports and i play tenis**
 
 
 
