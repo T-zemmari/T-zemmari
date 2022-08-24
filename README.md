@@ -17,7 +17,7 @@
 [![Linkedin: TarekZemmari](https://img.shields.io/badge/Linkedin-Tarek%20Zemmari-blue)](https://www.linkedin.com/in/tarek-zemmari/)
 
 
-- 🔭 I’m currently working on **for a new job opportunity as a web developer**
+- 🔭 I’m currently working on **Tedy business(Perfumerias.com)**
 
 - 🌱 I’m currently learning **in Geekshubs Academy**
 
