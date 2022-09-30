@@ -32,7 +32,7 @@
 const Tarek = {
   pronouns: "he" | "his",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Docker],
+  tools: [React, Node, Docker],
 }
 ```
 
