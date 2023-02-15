@@ -19,7 +19,6 @@
 
 - 🔭 I’m currently working on **Tedy business(Perfumerias.com)**
 
-- 🌱 I’m currently learning **in Geekshubs Academy**
 
 - ⚡ Fun fact **I love sports and i play tenis**
 
@@ -31,8 +30,8 @@
 ```javascript
 const Tarek = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, Docker],
+  code: [PHP,Javascript, HTML, CSS],
+  freamworks: [Symfony>4.5,React, Node],
 }
 ```
 
