@@ -30,8 +30,8 @@
 ```javascript
 const Tarek = {
   pronouns: "he" | "his",
-  code: [PHP,Javascript, HTML, CSS],
-  freamworks: [Symfony>4.5,React, Node],
+  code: [HTML,Javascript,CSS,PHP,Python],
+  freamworks: [Symfony>4.5,React,Django],
 }
 ```
 
