@@ -11,9 +11,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlos-val" alt="carlos-val" /></a> </p>
-
-
 [![Linkedin: TarekZemmari](https://img.shields.io/badge/Linkedin-Tarek%20Zemmari-blue)](https://www.linkedin.com/in/tarek-zemmari/)
 
 
