@@ -6,12 +6,6 @@
 <p><em>Web developer (FULL STACK) <a href="https://perfumerias.com" target="_blank">perfumerias.com (Tedy business)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-
-<h3 align="center">I'm a Developer from Valencia!!</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlos-val" /></a> </p>
-
-
 [![Linkedin: TarekZemmari](https://img.shields.io/badge/Linkedin-Tarek%20Zemmari-blue)](https://www.linkedin.com/in/tarek-zemmari/)
 
 
