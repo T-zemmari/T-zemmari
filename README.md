@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=900&color=7EE787&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Tarek+Zemmari;Full+Stack+Developer;PHP+%C2%B7+Laravel+%C2%B7+React+%C2%B7+MySQL" alt="Hi, I'm Tarek Zemmari" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=900&color=7EE787&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Tarek+Zemmari;Senior+Backend+Developer;PHP+%C2%B7+Laravel+%C2%B7+MySQL" alt="Hi, I'm Tarek Zemmari" />
 
-Building and running the e-commerce behind **perfumes24h.com**, **perfumerias.com** and other beauty stores at **Tedy Business**.
+6+ years building the backend behind **perfumes24h.com**, **perfumerias.com** and other beauty stores at **Tedy Business**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarek%20Zemmari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-zemmari/)
 [![perfumerias.com](https://img.shields.io/badge/Work-perfumerias.com-8957E5?style=flat-square)](https://perfumerias.com)
@@ -12,27 +12,35 @@ Building and running the e-commerce behind **perfumes24h.com**, **perfumerias.co
 
 ## About me
 
-I'm a full stack developer at **Tedy Business**, an online retailer of perfume and cosmetics. We run our own warehouse and ship our products ourselves, so my work covers the whole chain: storefronts, admin panels, orders and payments, stock and logistics.
+I'm a backend developer with 6+ years of experience, part of the IT team at **Tedy Business**, an online retailer of perfume and cosmetics. We run our own warehouse and ship our products ourselves, and I build the systems behind it: orders and payments, stock, logistics, integrations and the admin tools the team uses every day.
 
 - **Working on:** perfumes24h.com, perfumerias.com and more beauty e-shops
-- **Day to day:** PHP (vanilla and Laravel), MySQL, JavaScript / jQuery, React
+- **Focus:** backend with PHP (vanilla and Laravel) and MySQL
+- **Also:** I jump into the frontend (JavaScript, jQuery, React) whenever the team needs a hand
 - **Off the keyboard:** tennis player on a long break, the racket is waiting for a comeback
 
 ```javascript
 const tarek = {
-  role: "Full Stack Developer",
+  role: "Senior Backend Developer",
+  experience: "6+ years",
   company: "Tedy Business",
   shops: ["perfumes24h.com", "perfumerias.com", "+ beauty stores"],
-  backend: ["PHP", "Laravel", "MySQL"],
-  frontend: ["JavaScript", "jQuery", "React", "HTML", "CSS"],
+  focus: ["PHP", "Laravel", "MySQL"],
+  frontendWhenNeeded: ["JavaScript", "jQuery", "React", "HTML", "CSS"],
   hobbies: ["tennis (on pause)"],
 };
 ```
 
 ## Tech stack
 
+<p align="center"><b>Backend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,js,jquery,react,html,css,bootstrap,mysql,python,git&perline=12" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,mysql,python,git" alt="Backend stack" />
+</p>
+
+<p align="center"><b>Frontend, when the team needs it</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,jquery,react,html,css,bootstrap" alt="Frontend stack" />
 </p>
 
 ## GitHub stats
