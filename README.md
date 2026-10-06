@@ -1,60 +1,55 @@
- 
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=900&color=7EE787&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Tarek+Zemmari;Full+Stack+Developer;PHP+%C2%B7+Laravel+%C2%B7+React+%C2%B7+MySQL" alt="Hi, I'm Tarek Zemmari" />
 
-<h2> Hi, I'm Tarek Zemmari! 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+Building and running the e-commerce behind **perfumes24h.com**, **perfumerias.com** and other beauty stores at **Tedy Business**.
 
-<p><em>Web developer (FULL STACK) <a href="https://perfumerias.com" target="_blank">perfumerias.com (Tedy business)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-</em></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarek%20Zemmari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-zemmari/)
+[![perfumerias.com](https://img.shields.io/badge/Work-perfumerias.com-8957E5?style=flat-square)](https://perfumerias.com)
+[![perfumes24h.com](https://img.shields.io/badge/Work-perfumes24h.com-8957E5?style=flat-square)](https://perfumes24h.com)
 
-[![Linkedin: TarekZemmari](https://img.shields.io/badge/Linkedin-Tarek%20Zemmari-blue)](https://www.linkedin.com/in/tarek-zemmari/)
+</div>
 
+## About me
 
-- 🔭 I’m currently working on **Tedy business(Perfumerias.com)**
+I'm a full stack developer at **Tedy Business**, an online retailer of perfume and cosmetics. We run our own warehouse and ship our products ourselves, so my work covers the whole chain: storefronts, admin panels, orders and payments, stock and logistics.
 
-
-- ⚡ Fun fact **I love sports and i play tenis**
-
-
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+- **Working on:** perfumes24h.com, perfumerias.com and more beauty e-shops
+- **Day to day:** PHP (vanilla and Laravel), MySQL, JavaScript / jQuery, React
+- **Off the keyboard:** tennis player on a long break, the racket is waiting for a comeback
 
 ```javascript
-const Tarek = {
-  pronouns: "he" | "his",
-  code: [HTML,Javascript,CSS,PHP,Python],
-  freamworks: [Symfony>4.5,React,Django],
-}
+const tarek = {
+  role: "Full Stack Developer",
+  company: "Tedy Business",
+  shops: ["perfumes24h.com", "perfumerias.com", "+ beauty stores"],
+  backend: ["PHP", "Laravel", "MySQL"],
+  frontend: ["JavaScript", "jQuery", "React", "HTML", "CSS"],
+  hobbies: ["tennis (on pause)"],
+};
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,js,jquery,react,html,css,bootstrap,mysql,python,git&perline=12" alt="Tech stack" />
+</p>
+
+## GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=T-zemmari&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=7ee787&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-zemmari&layout=compact&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=c9d1d9" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=T-zemmari&hide_border=true&background=0D1117&ring=7EE787&fire=7EE787&currStreakLabel=7EE787&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub streak" />
+</p>
 
 ---
 
-⭐️ From [@Tarek](https://github.com/T-zemmari)
+<div align="center">
 
+Always happy to talk e-commerce, PHP or a good rally. Say hi on [LinkedIn](https://www.linkedin.com/in/tarek-zemmari/).
 
-![Tarek Zemmari Github Stats](https://github-readme-stats.vercel.app/api?username=T-zemmari&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-
-</p>
-
-
-
-
-<!--
-**T-zemmari/T-zemmari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
